@@ -25,7 +25,7 @@ The goal of this project is to classify iris flowers into three species
 
 ## Repository / Live Demo
 You can view and run the project here:  
-[GitHub Repository](https://github.com/Geetipriya/iris-flower-ml)
+[GitHub Repository](https://github.com/Geetipriya/iris-classification-ml)
 
 ## ✅ Conclusion
 This project demonstrates a simple yet effective application of machine learning 
